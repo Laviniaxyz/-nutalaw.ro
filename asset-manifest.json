@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.8d54c2d8.css",
+    "main.js": "./static/js/main.1ce92ed9.js",
+    "static/media/video-lawyer.mp4": "./static/media/video-lawyer.20676d21dda3abe19923.mp4",
+    "static/media/BooksImage.png": "./static/media/BooksImage.1b3650d69e7a41426961.png",
+    "static/media/HeroImageLawyer.png": "./static/media/HeroImageLawyer.23725b3118b5861cf412.png",
+    "static/media/lawyer-image-small-height.png": "./static/media/lawyer-image-small-height.d001fdb80da9c4227361.png",
+    "static/media/book.png": "./static/media/book.59d96027dc9cfa382a52.png",
+    "index.html": "./index.html",
+    "main.8d54c2d8.css.map": "./static/css/main.8d54c2d8.css.map",
+    "main.1ce92ed9.js.map": "./static/js/main.1ce92ed9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d54c2d8.css",
+    "static/js/main.1ce92ed9.js"
+  ]
+}
